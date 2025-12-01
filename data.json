@@ -1,0 +1,47 @@
+{
+  "clients": [
+    {
+      "name": "Дашка",
+      "cargo_weight": 15.0,
+      "is_vip": true
+    },
+    {
+      "name": "Лабуба",
+      "cargo_weight": 50.0,
+      "is_vip": false
+    },
+    {
+      "name": "Пират",
+      "cargo_weight": 23.0,
+      "is_vip": false
+    },
+    {
+      "name": "Лёшка",
+      "cargo_weight": 17.0,
+      "is_vip": true
+    }
+  ],
+  "vehicles": [
+    {
+      "vehicle_id": "74e9e5c1",
+      "capacity": 15.0,
+      "current_load": 15.0,
+      "type": "van",
+      "is_refrigerated": false
+    },
+    {
+      "vehicle_id": "049fabb1",
+      "capacity": 25.0,
+      "current_load": 17.0,
+      "type": "van",
+      "is_refrigerated": true
+    },
+    {
+      "vehicle_id": "648685cd",
+      "capacity": 55.0,
+      "current_load": 50.0,
+      "type": "airplane",
+      "max_altitude": 12000.0
+    }
+  ]
+}
